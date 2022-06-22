@@ -46,5 +46,5 @@ to interact with and test the program in whatever way you like.**
 <br>
 
 ***To view the project and run the code, click on the following link:*** <br>
-https://somelink
+https://mybinder.org/v2/gh/Mo-Khalifa96/Online-Banking-System-with-Python/main?labpath=Online%20Banking%20System%20(Jupyter%20version).ipynb
 <br>
