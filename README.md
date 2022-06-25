@@ -1,10 +1,11 @@
 # Online Banking System (course project)
 
 ## About The Project
-**This is a rudimentary version of an online banking system created as the final project for my course 'Introduction to Python Programming', 
-which is offered online by the University of Pennsylvania, however slightly modified to be larger in scope and more general-purpose than 
-originally conceived by the course.**
+**This is a rudimentary version of an online banking system comprised of the back-end code and operations that are common to all online banking
+systems. It was originally created as the final project for my course 'Introduction to Python Programming', offered online by the University of 
+Pennsylvania, however it was slightly modified to be larger in scope and more general-purpose than originally conceived by the course.**
 
+<br>
 <br>
 
 I have included two versions of the project, the first is a Python script with the raw code, the second is a Jupyter Notebook version, which
